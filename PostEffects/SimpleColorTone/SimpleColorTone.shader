@@ -42,7 +42,6 @@ Shader "Custom/PostFX/SimpleColorTone"
             }
 
             sampler2D _MainTex; //Defining the variables
-            float4 _MainTex_ST;
             float4 _Color;
             float _Float;
 
