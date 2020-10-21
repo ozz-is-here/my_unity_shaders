@@ -2,7 +2,7 @@
 
 ## 🇺🇸 What is this repository for?
 
-This is a collection of my own Unity shaders, as the name says. I put here the shaders i made for Unity.
+This is a collection of my own Unity shaders, as the name says. I put here shaders I made for Unity myself.
 
 ## How to use post effects (for newbies)
 
